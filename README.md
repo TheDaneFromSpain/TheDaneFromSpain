@@ -1,9 +1,19 @@
-## Hi there 👋
+```
+![Visitor Count](https://profile-counter.glitch.me/TheDaneFromSpain/count.svg)
+```
 
-<!--
-**TheDaneFromSpain/TheDaneFromSpain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current project
 
-Here are some ideas to get you started:
+## Past projects
+https://github.com/TheDaneFromSpain/greenland-glacier-sediment-thickness
+
+https://github.com/TheDaneFromSpain/greenland-ice-thickness-modelling
+
+https://github.com/TheDaneFromSpain/gmail-keyword-filter
+
+## Toolbox / software
+
+(images of the programs in a row)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
