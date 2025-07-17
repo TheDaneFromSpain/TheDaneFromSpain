@@ -1,16 +1,18 @@
 
 # :memo: Current project
 
-Voice controlled image sorter
+*Have you ever been doing some mindnumbing routine task, like washing the dishes, and wished you could be doing something more productive with your time instead? Well, I have. So I came up with this:*
 
+A [voice controlled image sorter](https://github.com/TheDaneFromSpain/voice-controlled-image-sorter) that allows you to organize your images at a glance while doing something else. Currently deciding between developing for PC or Android.
 
 # :card_file_box: Past projects
 
-https://github.com/TheDaneFromSpain/greenland-glacier-sediment-thickness
+- A [Gmail keyword filter](https://github.com/TheDaneFromSpain/gmail-keyword-filter) I use for generating a list of companies that I have sent an application to (and thus recieved a confirmation email).
 
-https://github.com/TheDaneFromSpain/greenland-ice-thickness-modelling
+- :star: A year-long study of Greenland in collaboration with the Department of Geoscience at Aarhus University and the Geological Survey of Denmark and Greenland, which resulted in an [interactive web app that visualizes geological data around Greenland](https://github.com/TheDaneFromSpain/greenland-glacier-sediment-thickness) in order to estimate seabed sediment thickness and [a comparison of various geostatistical methods of modelling ice sheet thickness](https://github.com/TheDaneFromSpain/greenland-ice-thickness-modelling) for my bachelor thesis.
 
-https://github.com/TheDaneFromSpain/gmail-keyword-filter
+
+
 
 # :toolbox: Toolbox
 
